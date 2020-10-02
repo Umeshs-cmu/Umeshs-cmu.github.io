@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Krishna Subramani</title>
+		<title>Umesh</title>
 	</head>
 	<body>
 		<nav>
@@ -21,10 +21,10 @@
 		<footer>
     		<ul>
 
-        		<li><a href="mailto:subramanikrishna@hotmail.com">Personal Email</a></li>
+        		<li><a href="mailto:">Personal Email</a></li>
         		<li><a href="https://github.com/SubramaniKrishna">github.com/SubramaniKrishna</a></li>
 
-        		<li><a href="mailto:subramanikrishna@hotmail.com">Personal Email</a></li>
+        		<li><a href="mailto:">Personal Email</a></li>
         		<li><a href="https://github.com/SubramaniKrishna">Github Account</a></li>
 
 			</ul>
